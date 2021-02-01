@@ -1,0 +1,29 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "Fullname": "Salman Syahbani",
+      "NISN": "65598797642153",
+      "Email": "Salman@codingthesmartway.com",
+      "Password": "123456789",
+      "Balance": 5000
+    },
+    {
+      "ID": 2,
+      "NISN": "65598797642153",
+      "Fullname": "Holilah Alawiyah",
+      "Password": "123456789",
+      "Email": "Holilah@gmail.com",
+      "Balance": 230000,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "Fullname": "Reza Haliza",
+      "NISN": "65598797642153",
+      "Email": "Reza@codingthesmartway.com",
+      "Password": "123456789",
+      "Balance": 68000
+    }
+  ]
+}
